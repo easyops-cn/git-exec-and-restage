@@ -1,7 +1,7 @@
 {
   "name": "@easyops/git-exec-and-restage",
   "description": "Safely amend Git commits after applying auto-fixing tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist",
   "bin": "dist/index.js",
   "scripts": {
