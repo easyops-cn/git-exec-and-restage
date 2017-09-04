@@ -49,5 +49,6 @@
       "<rootDir>/node_modules/",
       "<rootDir>/dist/"
     ]
-  }
+  },
+  "license": "MIT"
 }
