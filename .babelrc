@@ -8,8 +8,7 @@
           "node": 6.9
         }
       }
-    ],
-    "stage-0"
+    ]
   ],
   "sourceMaps": "inline",
   "env": {
