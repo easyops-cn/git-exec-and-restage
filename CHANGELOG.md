@@ -1,3 +1,10 @@
+#### 1.0.4 (2017-09-28)
+
+##### Chores
+
+* **babel:** use babel-plugin-transform-class-properties on test file ([b579dcd2](https://github.com/easyops-cn/git-exec-and-restage/commit/b579dcd238aecc93b04f6725d5778d4eccefcb1b))
+* **travis:** build on every commit ([f7419111](https://github.com/easyops-cn/git-exec-and-restage/commit/f7419111e2d0089595f936d257996d6d918db2b3))
+
 #### 1.0.3 (2017-09-28)
 
 ##### Chores
