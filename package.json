@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
+    "core-js": "^2.5.1",
     "cross-spawn-promise": "^0.10.1"
   },
   "jest": {
